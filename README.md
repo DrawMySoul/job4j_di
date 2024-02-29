@@ -4,11 +4,7 @@
 This is an educational project of a Spring framework
 
 ## Themes
-<<<<<<< HEAD
 - [ ] Core
-=======
--[ ] Core
->>>>>>> origin/master
     - [x] Review Spring
     - [ ] DI, IoC, Beans, BeanFactory, ApplicationContext
     - [ ] Lifecycle of a Spring Bean
